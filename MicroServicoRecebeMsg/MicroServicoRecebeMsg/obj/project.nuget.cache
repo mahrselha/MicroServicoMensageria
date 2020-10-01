@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYuNZ6+0BsOxoIMt8vsFcM7ZNA+k8yvCNjEEaBQEu8izwzHIeG1Rb4I8qA3yIEdLBzbbKbHMqyBBfjW1XDb9Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahrselha\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Mahrselha\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Mahrselha\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

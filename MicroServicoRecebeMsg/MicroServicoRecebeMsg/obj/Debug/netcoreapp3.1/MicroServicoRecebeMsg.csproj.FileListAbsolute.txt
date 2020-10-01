@@ -1,0 +1,16 @@
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\MicroServicoRecebeMsg.exe
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.csprojAssemblyReference.cache
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.AssemblyInfoInputs.cache
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.AssemblyInfo.cs
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.csproj.CoreCompileInputs.cache
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\MicroServicoRecebeMsg.deps.json
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\MicroServicoRecebeMsg.runtimeconfig.json
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\MicroServicoRecebeMsg.runtimeconfig.dev.json
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\MicroServicoRecebeMsg.dll
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\MicroServicoRecebeMsg.pdb
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.csproj.CopyComplete
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.dll
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.pdb
+C:\Users\Mahrselha\source\repos\MicroServicoRecebeMsg\MicroServicoRecebeMsg\obj\Debug\netcoreapp3.1\MicroServicoRecebeMsg.genruntimeconfig.cache
