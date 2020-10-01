@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bFvuNNvp01wA5z3MZ0NZVZ9G6QWblKROQD01jeljbCVR1Y451eR1wIuVb6ozDKCWuCVqjK4ZietRKe3lK/Ut1g==",
+  "dgSpecHash": "frXS0J3ufp8wFheJK1uSRkGMQuaIPaEVw+MTGPZFkCXt0B6AQkfhGwnZdZVLXuMzX9ApYnMYP1SjAxrQzEbBcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoEnvio\\MicroServicoEnvio\\MicroServicoEnvio.csproj",
+  "projectFilePath": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoEnvio\\MicroServicoEnvio\\MicroServicoEnvio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahrselha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Mahrselha\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.0\\microsoft.data.sqlclient.2.0.0.nupkg.sha512",

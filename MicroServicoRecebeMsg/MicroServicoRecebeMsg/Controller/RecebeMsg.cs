@@ -33,9 +33,6 @@ namespace MicroServicoRecebeMsg
                 channel.BasicConsume(queue: "MensagemQueue",
                                      autoAck: true,
                                      consumer: consumer);
-
-                Console.WriteLine("Pressione 0 para sair");
-                Console.ReadLine();
             }
         }
     }

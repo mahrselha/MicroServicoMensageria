@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYuNZ6+0BsOxoIMt8vsFcM7ZNA+k8yvCNjEEaBQEu8izwzHIeG1Rb4I8qA3yIEdLBzbbKbHMqyBBfjW1XDb9Pw==",
+  "dgSpecHash": "03zap70819DqXWo6J9L4ZV24lXo3YHbUodI3FNJT2djK/1zU9bhs0FcG3hwRsoLFuIz9S2f1Ja1R+mUW+pcwMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
+  "projectFilePath": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahrselha\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\Mahrselha\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

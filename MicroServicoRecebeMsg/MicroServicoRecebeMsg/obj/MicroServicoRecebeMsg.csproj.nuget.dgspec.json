@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj": {}
+    "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj": {
+    "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
+        "projectUniqueName": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
         "projectName": "MicroServicoRecebeMsg",
-        "projectPath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
+        "projectPath": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg.csproj",
         "packagesPath": "C:\\Users\\Mahrselha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\obj\\",
+        "outputPath": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoRecebeMsg\\MicroServicoRecebeMsg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahrselha\\AppData\\Roaming\\NuGet\\NuGet.Config",

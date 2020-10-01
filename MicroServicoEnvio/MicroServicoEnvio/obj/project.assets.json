@@ -5794,11 +5794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoEnvio\\MicroServicoEnvio\\MicroServicoEnvio.csproj",
+      "projectUniqueName": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoEnvio\\MicroServicoEnvio\\MicroServicoEnvio.csproj",
       "projectName": "MicroServicoEnvio",
-      "projectPath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoEnvio\\MicroServicoEnvio\\MicroServicoEnvio.csproj",
+      "projectPath": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoEnvio\\MicroServicoEnvio\\MicroServicoEnvio.csproj",
       "packagesPath": "C:\\Users\\Mahrselha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahrselha\\source\\repos\\MicroServicoEnvio\\MicroServicoEnvio\\obj\\",
+      "outputPath": "C:\\Users\\Mahrselha\\Documents\\GitHub\\MicroServicoMensageria\\MicroServicoEnvio\\MicroServicoEnvio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahrselha\\AppData\\Roaming\\NuGet\\NuGet.Config",
