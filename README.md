@@ -8,5 +8,4 @@
  serviço dispara mensagens a cada 5 segundo utilizando a biblioteca Quartz para setar o job e disparar a trigger com 
  o tempo setado, porém o programa foi desenvolvido para também ser consumido via API Rest com JSON. 
 
-OBS.: Usuário para acessar o RabbitMQ: guest 
-      Senha: guest
+
